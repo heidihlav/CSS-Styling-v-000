@@ -28,7 +28,7 @@ figcaption {
   color: #777;
 }
 
-/* Class Selectors - added to as many elements as you like */
+/* Class Selectors - added to as many elements as you like. Selects elements with class name in tag. */
 .milk-text {
   font: bold 2.6em "Elsie Swash Caps", cursive;
   color: white;
