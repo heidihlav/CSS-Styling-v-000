@@ -8,8 +8,12 @@ selector {
 Type selectors
 
 p {
-  font-size: 16px, pt, %
+  font-size: 16px, pt, % -- 16px = 1em
+  line-height: 1.5em;
 }
-
-
 */
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
