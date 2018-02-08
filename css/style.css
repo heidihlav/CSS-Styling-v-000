@@ -39,3 +39,8 @@ figcaption {
 #logo {
   background: aqua;
 }
+
+/* Descendent selector - selecting element immediately under parent*/
+#logo h1 {
+  font-family: "Clicker Script", cursive;
+}
